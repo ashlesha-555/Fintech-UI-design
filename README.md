@@ -79,16 +79,14 @@ To view or edit the design:
 
 ## Design Link
 
-To view the real design, visit the [Figma project link here](#).
+To view the real design, visit the [Figma project link here](https://www.figma.com/design/jzx0TYfQwD8Cn3DfSFXPwz/App?node-id=0-1&t=DcuHzDKVBMcImJtl-1).
 
-*(Replace the '#' with your actual Figma link)*
 
 ---
 
 ### Contributors
 
-- **Lead Designer**: [Your Name]
-- **App Concept & UX/UI**: Calque Team
+- **Lead Designer**: [Ashlesha K]
 
 For any questions or feedback, feel free to reach out.
 
