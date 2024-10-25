@@ -2,7 +2,7 @@
 
 **Calque** is a financial platform that empowers users by providing them with various lending and borrowing solutions, credit score analysis, secure deposits, and more. This README provides an overview of the app's design and features, created using Figma.
 
-![UI](.Users\Lenovo\OneDrive\Desktop)
+![UI](.\C\Users\Lenovo\OneDrive\Desktop)
 
 
 ## Table of Contents
